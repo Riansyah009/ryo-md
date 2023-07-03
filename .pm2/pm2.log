@@ -1,0 +1,36 @@
+2023-07-03T09:15:35: PM2 log: ===============================================================================
+2023-07-03T09:15:35: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-07-03T09:15:35: PM2 log: Time                 : Mon Jul 03 2023 09:15:35 GMT+0000 (Coordinated Universal Time)
+2023-07-03T09:15:35: PM2 log: PM2 version          : 5.3.0
+2023-07-03T09:15:35: PM2 log: Node.js version      : 20.2.0
+2023-07-03T09:15:35: PM2 log: Current arch         : x64
+2023-07-03T09:15:35: PM2 log: PM2 home             : /home/container/.pm2
+2023-07-03T09:15:35: PM2 log: PM2 PID file         : /home/container/.pm2/pm2.pid
+2023-07-03T09:15:35: PM2 log: RPC socket file      : /home/container/.pm2/rpc.sock
+2023-07-03T09:15:35: PM2 log: BUS socket file      : /home/container/.pm2/pub.sock
+2023-07-03T09:15:35: PM2 log: Application log path : /home/container/.pm2/logs
+2023-07-03T09:15:35: PM2 log: Worker Interval      : 30000
+2023-07-03T09:15:35: PM2 log: Process dump file    : /home/container/.pm2/dump.pm2
+2023-07-03T09:15:35: PM2 log: Concurrent actions   : 2
+2023-07-03T09:15:35: PM2 log: SIGTERM timeout      : 1600
+2023-07-03T09:15:35: PM2 log: ===============================================================================
+2023-07-03T09:15:35: PM2 log: App [index:0] starting in -fork mode-
+2023-07-03T09:15:35: PM2 log: App [index:0] online
+2023-07-03T10:16:55: PM2 log: ===============================================================================
+2023-07-03T10:16:55: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-07-03T10:16:55: PM2 log: Time                 : Mon Jul 03 2023 10:16:55 GMT+0000 (Coordinated Universal Time)
+2023-07-03T10:16:55: PM2 log: PM2 version          : 5.3.0
+2023-07-03T10:16:55: PM2 log: Node.js version      : 20.2.0
+2023-07-03T10:16:55: PM2 log: Current arch         : x64
+2023-07-03T10:16:55: PM2 log: PM2 home             : /home/container/.pm2
+2023-07-03T10:16:55: PM2 log: PM2 PID file         : /home/container/.pm2/pm2.pid
+2023-07-03T10:16:55: PM2 log: RPC socket file      : /home/container/.pm2/rpc.sock
+2023-07-03T10:16:55: PM2 log: BUS socket file      : /home/container/.pm2/pub.sock
+2023-07-03T10:16:55: PM2 log: Application log path : /home/container/.pm2/logs
+2023-07-03T10:16:55: PM2 log: Worker Interval      : 30000
+2023-07-03T10:16:55: PM2 log: Process dump file    : /home/container/.pm2/dump.pm2
+2023-07-03T10:16:55: PM2 log: Concurrent actions   : 2
+2023-07-03T10:16:55: PM2 log: SIGTERM timeout      : 1600
+2023-07-03T10:16:55: PM2 log: ===============================================================================
+2023-07-03T10:16:55: PM2 log: App [index:0] starting in -fork mode-
+2023-07-03T10:16:55: PM2 log: App [index:0] online
